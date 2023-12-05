@@ -70,6 +70,6 @@ This project can be used for the following purpose:<br>
 
 ## Demo
 
-![](https://github.com/kunal-1207/Youtube-Video-Downloader-/blob/main/gif/screen-capture.gif)
+![](https://github.com/kunal-1207/Python/blob/main/Video%20downloader/gif/screen-capture.gif)
 
 
