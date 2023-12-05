@@ -65,7 +65,7 @@ This project can be used for the following purpose:<br>
 ![App Screenshot](https://github.com/kunal-1207/Python/blob/main/Video%20downloader/screenshot/Screenshot%202023-12-05%20194327.png)
 
 4th step:<br>
-![App Screenshot](https://github.com/kunal-1207/Youtube-Video-Downloader-/blob/main/screenshot/Screenshot%202023-12-05%20194403.png)
+![App Screenshot](https://github.com/kunal-1207/Python/blob/main/Video%20downloader/screenshot/Screenshot%202023-12-05%20194403.png)
 
 
 ## Demo
