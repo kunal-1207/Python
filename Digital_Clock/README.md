@@ -19,7 +19,7 @@ Make sure you have Python installed on your system. You can download it from pyt
 
 Clone the repository:
 
-git clone https://github.com/kunal-1207/Digital_Clock
+git clone https://github.com/kunal-1207/Python/tree/main/Digital_Clock
 
 Navigate to the project directory:
 
