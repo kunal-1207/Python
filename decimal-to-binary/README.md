@@ -17,7 +17,9 @@ This Python script provides a user-friendly interface for converting between dec
 
 Clone this repository to your local machine: 
 
-git clone https://github.com/kunal-1207/Python/tree/main/decimal-to-binary
+git clone
+    
+    https://github.com/kunal-1207/Python/tree/main/decimal-to-binary
 
     
 ## Usage/Examples
