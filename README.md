@@ -15,7 +15,7 @@ This repository is a treasure trove of Python projects, experiments, and learnin
 
 - Clone the Repository: Get a local copy using git clone
 
-      https://github.com/kunal-1207/python.git
+      git clone https://github.com/kunal-1207/python.git
 - Explore Projects: Dive into different project folders and understand their purpose.
 - Run Projects: Follow the project-specific instructions to execute the code.
 - Contribute: Feel free to add your own projects, experiments, or improvements.
