@@ -17,17 +17,17 @@ A simple and elegant digital clock application built with Python's Tkinter libra
 Make sure you have Python installed on your system. You can download it from python.org.
 ## Installation
 
-Clone the repository:
+#### 1. Clone the repository:
 
-git clone https://github.com/kunal-1207/Python/tree/main/Digital_Clock
+    git clone https://github.com/kunal-1207/Python/tree/main/Digital_Clock
 
-Navigate to the project directory:
+#### 2. Navigate to the project directory:
 
-cd Digital_Clock
+    cd Digital_Clock
 
-Run the application:
+#### 3. Run the application:
 
-python Digital Clock.py
+    python Digital Clock.py
 
 
     
@@ -37,6 +37,7 @@ The main components of the code include:
 
 - Tkinter GUI Setup: Initializes the main application window and configures the label that displays the time.
 - digital_clock Function: Fetches the current time using time.strftime and updates the label every 200 milliseconds.
+
 ## Customization 
 
 Feel free to customize the following aspects of the clock:
@@ -44,9 +45,11 @@ Feel free to customize the following aspects of the clock:
 - Font Style and Size: Change the text_font parameter to alter the appearance.
 - Background and Foreground Colors: Modify background and foreground to suit your style.
 - Border Width: Adjust border_width for a different look.
+  
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
